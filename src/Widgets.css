@@ -1,0 +1,38 @@
+.widgets{
+    flex : 0.2;
+    padding: 20px;
+    overflow-y: scroll;
+    border-right: 1px solid #8080807a;
+}
+
+.widgets_input {
+    display: flex;
+    flex-direction: column;
+}
+
+.widgets_input > input{
+    border: none;
+}
+
+.widgets_body{
+    
+    margin-top: 20px;
+    height: auto;
+}
+
+.widgets::-webkit-scrollbar{
+    display: none;
+}
+
+.searchButton{
+    margin-top: 10px !important;
+    border: 1px solid #000000 !important;
+}
+
+.dweet_date{
+    font-size: small;
+}
+
+.widgets_input_box{
+    margin-top: 27px;
+}

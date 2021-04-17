@@ -1,0 +1,32 @@
+.dweet{
+    border: 1px solid #8080807a; 
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.dweet_header{
+    display: flex;
+}
+.like_area{
+    display: flex;
+}
+
+.dweet_footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.dweet_uname{
+    color: #c2c0c0;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.dweetComment > input{
+    border: 1px solid #8080807a; 
+    border-radius: 10px;
+}

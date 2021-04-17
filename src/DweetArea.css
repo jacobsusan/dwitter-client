@@ -1,0 +1,28 @@
+.dweetArea{
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.dweetArea_input{
+    display: flex;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.dweetArea_input_2{
+    display: flex;
+    flex-direction: column;
+}
+.dweetArea_input_2 > input{
+    border: none;
+}
+
+.dweetArea_input > input{
+    flex: 1;
+    border: none;
+    font-size: 20px;
+}
+
+.dweetButton{
+    margin-top: 10px !important;
+    border: 1px solid #000000 !important;
+}

@@ -1,0 +1,34 @@
+.widgetItem{
+    border: 1px solid #8080807a; 
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.widgetItem_header{
+    display: flex;
+}
+
+.widgetItem_footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.widgetItem_uname{
+    color: #c2c0c0;
+}
+
+.widgetItem_image{
+    border: none;
+}
+
+.widgetItem_body{
+    padding: 10px;
+}
+
+
+
+.followButton{
+    margin-top: 10px !important;
+    border: 1px solid #000000 !important;
+}
